@@ -1,3 +1,15 @@
 {
-  "typescript.tsdk": "node_modules/typescript/lib"
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        ".*": true,
+        "node_modules": true,
+        "*.config.js": true,
+        "Gemfile": true,
+        "*.lock": true,
+        "desktop.ini": true
+    }
 }
