@@ -11,5 +11,6 @@
         "Gemfile": true,
         "*.lock": true,
         "desktop.ini": true
-    }
+    },
+    "workbench.colorTheme": "One Dark Pro"
 }
